@@ -1,0 +1,26 @@
+Customer_ID,Gender,Item_Purchased,Location,Size,Color,Subscription_Status,Payment_Method,Shipping_Type,Discount_Applied,Promo_Code_Used,Preferred_Payment_Method
+1,Male,Blouse,Kentucky,L,Gray,Yes,Credit Card,Express,Yes,Yes,Venmo
+2,Male,Sweater,Maine,L,Maroon,Yes,Bank Transfer,Express,Yes,Yes,Cash
+3,Male,Jeans,Massachusetts,S,Maroon,Yes,Cash,Free Shipping,Yes,Yes,Credit Card
+4,Male,Sandals,Rhode Island,M,Maroon,Yes,PayPal,Next Day Air,Yes,Yes,PayPal
+5,Male,Blouse,Oregon,M,Turquoise,Yes,Cash,Free Shipping,Yes,Yes,PayPal
+6,Male,Sneakers,Wyoming,M,White,Yes,Venmo,Standard,Yes,Yes,Venmo
+7,Male,Shirt,Montana,M,Gray,Yes,Debit Card,Free Shipping,Yes,Yes,Cash
+8,Male,Shorts,Louisiana,L,Charcoal,Yes,Debit Card,Free Shipping,Yes,Yes,Credit Card
+9,Male,Coat,West Virginia,L,Silver,Yes,Venmo,Express,Yes,Yes,Venmo
+10,Male,Handbag,Missouri,M,Pink,Yes,PayPal,2-Day Shipping,Yes,Yes,Cash
+11,Male,Shoes,Arkansas,L,Purple,Yes,Credit Card,Store Pickup,Yes,Yes,Bank Transfer
+12,Male,Shorts,Hawaii,S,Olive,Yes,PayPal,Store Pickup,Yes,Yes,Bank Transfer
+13,Male,Coat,Delaware,M,Gold,Yes,PayPal,Express,Yes,Yes,Venmo
+14,Male,Dress,New Hampshire,M,Violet,Yes,Debit Card,Express,Yes,Yes,PayPal
+15,Male,Coat,New York,L,Teal,Yes,PayPal,Free Shipping,Yes,Yes,Debit Card
+16,Male,Skirt,Rhode Island,M,Teal,Yes,Credit Card,Store Pickup,Yes,Yes,PayPal
+17,Male,Sunglasses,Alabama,S,Gray,Yes,Venmo,Next Day Air,Yes,Yes,Debit Card
+18,Male,Dress,Mississippi,XL,Lavender,Yes,Debit Card,2-Day Shipping,Yes,Yes,Venmo
+19,Male,Sweater,Montana,S,Black,Yes,Bank Transfer,Free Shipping,Yes,Yes,Cash
+20,Male,Pants,Rhode Island,M,Green,Yes,Venmo,Standard,Yes,Yes,Debit Card
+21,Male,Pants,Louisiana,M,Black,Yes,Credit Card,Express,Yes,Yes,Cash
+22,Male,Pants,North Carolina,M,Charcoal,Yes,Credit Card,Store Pickup,Yes,Yes,Debit Card
+23,Male,Pants,California,M,Peach,Yes,Cash,Store Pickup,Yes,Yes,Debit Card
+24,Male,Pants,Oklahoma,XL,White,Yes,Credit Card,Express,Yes,Yes,Credit Card
+25,Male,Jacket,Florida,M,Green,Yes,Cash,Store Pickup,Yes,Yes,Debit Card
