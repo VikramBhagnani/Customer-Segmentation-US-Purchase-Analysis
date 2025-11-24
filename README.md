@@ -71,7 +71,6 @@ Customer-Segmentation-US-Purchase-Analysis/
 │       ├── clusters.png
 │
 ├── documentation/
-│   ├── Customer_Segmentation_Report.pdf
 │   ├── Project_Presentation.pdf
 │
 └── README.md
