@@ -216,7 +216,7 @@ Open the file:
 ### **2. Run Python Notebook**
 
 Start with:
-`python/clustering.ipynb`
+`python/customer_segment.ipynb`
 
 ### **3. View Presentation**
 
