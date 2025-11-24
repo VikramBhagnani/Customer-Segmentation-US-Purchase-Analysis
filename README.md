@@ -70,7 +70,7 @@ Customer-Segmentation-US-Purchase-Analysis/
 │       ├── demographics.png
 │       ├── clusters.png
 │
-├── documentation/
+├── reports/
 │   ├── Project_Presentation.pdf
 │
 └── README.md
