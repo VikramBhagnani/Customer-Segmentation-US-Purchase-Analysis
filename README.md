@@ -64,7 +64,7 @@ Customer-Segmentation-US-Purchase-Analysis/
 │
 ├── data/
 │   ├── original_dataset.csv
-│   ├── cleaned_dataset.csv
+│   ├── CDACL.docx (Client Requirements)
 │
 ├── sql/
 │   ├── analysis_queries.sql
