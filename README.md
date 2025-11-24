@@ -230,5 +230,5 @@ Open:
 **Vikram Bhagnani**
 Data Analyst | Business Analyst
 📧 bhagnanai.vikram77@gmail.com 
-🔗 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+🔗 GitHub: https://github.com/VikramBhagnani
 🔗 LinkedIn: https://www.linkedin.com/in/vikram-g-bhagnani-61529b22a/
