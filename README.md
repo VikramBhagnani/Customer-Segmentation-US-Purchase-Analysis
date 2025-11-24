@@ -211,7 +211,7 @@ Each cluster gets:
 ### **1. View the Dashboard**
 
 Open the file:
-`powerbi/dashboard.pbix`
+`powerbi/Customer Segmentation.pbix`
 
 ### **2. Run Python Notebook**
 
