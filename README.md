@@ -1,14 +1,3 @@
-# Customer-Segmentation-US-Purchase-Analysis
-Data Analyst Project – Customer Segmentation, Discount Optimization &amp; Behavioral Insights using SQL, Python &amp; Power BI.
-Great — I’ll generate a **professional, job-ready, premium README.md** for your GitHub project.
-
-This README follows the best structure used by top data analyst portfolios and is optimized for employers like **Accenture, Deloitte, PwC, KPMG, Techwave, TCS, Infosys, and EY**.
-
-Below is your **complete README.md**.
-You can copy-paste it directly into your GitHub repository.
-
----
-
 # **📌 Customer Segmentation & Purchase Behavior Analysis (U.S. Market)**
 
 ### **Power BI Dashboard | SQL Analysis | Python Clustering | Data Analytics Project**
