@@ -49,7 +49,7 @@ You must analyze purchase behavior and answer:
 
 | Component            | Technologies        |
 | -------------------- | ------------------- |
-| **Data Cleaning**    | Excel / Power Query |
+| **Data Cleaning**    | Excel |
 | **Analysis**         | SQL, Python         |
 | **Visualization**    | Power BI            |
 | **Clustering Model** | Python (KMeans)     |
