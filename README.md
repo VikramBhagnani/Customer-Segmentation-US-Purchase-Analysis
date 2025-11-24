@@ -221,7 +221,7 @@ Start with:
 ### **3. View Presentation**
 
 Open:
-`documentation/Project_Presentation.pdf`
+`reports/Customer Segmentation & Purchase Analysis.pdf`
 
 ---
 
