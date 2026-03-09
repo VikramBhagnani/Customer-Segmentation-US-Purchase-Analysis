@@ -43,3 +43,19 @@ Power BI
 
 
 ## Project Structure
+Customer-Segmentation-US-Purchase-Analysis
+│
+├── data
+│   ├── original_dataset.csv
+│
+├── notebooks
+│   ├── customer_segmentation_analysis.ipynb
+│
+├── powerbi
+│   ├── customer_segmentation_dashboard.pbix
+│
+├── images
+│   ├── dashboard_overview.png
+│   ├── segmentation_dashboard.png
+│
+└── README.md
