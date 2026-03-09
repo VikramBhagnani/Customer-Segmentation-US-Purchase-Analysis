@@ -35,9 +35,11 @@ Power BI
 ## Dashboard Overview
 
 ### Executive Revenue Overview
-(Insert screenshot of your first dashboard)
+<img width="962" height="624" alt="image" src="https://github.com/user-attachments/assets/80f0d501-c30c-494f-84bc-a9cd3adc5530" />
+
 
 ### Customer Segmentation Insights
-(Insert screenshot of your cluster dashboard)
+<img width="985" height="628" alt="image" src="https://github.com/user-attachments/assets/15813bd3-e1b3-455d-ae25-84f7493dffc0" />
+
 
 ## Project Structure
