@@ -50,6 +50,10 @@ Customer-Segmentation-US-Purchase-Analysis
 ├── data
 │   └── Customer Segmentation1.csv
 │
+├── images
+│   ├── Customer Revenue & Performance Overview.png
+│   └── Customer Segmentation Insights.png
+│
 ├── powerbi
 │   └── Customer Segmentation2.0.pbix
 │
@@ -58,10 +62,6 @@ Customer-Segmentation-US-Purchase-Analysis
 │
 ├── reports
 │   └── Customer Segmentation & Revenue Analysis.pptx
-│
-├── images
-│   ├── dashboard_overview.png
-│   └── segmentation_dashboard.png
 │
 └── README.md
 ```
