@@ -48,13 +48,16 @@ Power BI
 Customer-Segmentation-US-Purchase-Analysis
 │
 ├── data
-│   └── original_dataset.csv
+│   └── Customer Segmentation1.csv
 │
 ├── powerbi
-│   └── customer_segmentation_dashboard.pbix
+│   └── Customer Segmentation2.0.pbix
 │
 ├── python
-│   └── customer_segmentation_analysis.ipynb
+│   └── Customer Segmentation.ipynb
+│
+├── reports
+│   └── Customer Segmentation & Revenue Analysis.pptx
 │
 ├── images
 │   ├── dashboard_overview.png
