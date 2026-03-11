@@ -50,11 +50,11 @@ Customer-Segmentation-US-Purchase-Analysis
 ├── data
 │   └── original_dataset.csv
 │
-├── notebooks
-│   └── customer_segmentation_analysis.ipynb
-│
 ├── powerbi
 │   └── customer_segmentation_dashboard.pbix
+│
+├── python
+│   └── customer_segmentation_analysis.ipynb
 │
 ├── images
 │   ├── dashboard_overview.png
