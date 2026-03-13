@@ -13,8 +13,7 @@ The goal is to help businesses understand customer groups and design targeted ma
 
 ## Tools & Technologies
 Python  
-Pandas  
-Scikit-Learn  
+Pandas   
 Matplotlib / Seaborn  
 Power BI  
 
